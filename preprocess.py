@@ -1,4 +1,10 @@
-
+#
+# Module to preprocess recording audio files.
+# 
+# ffmpeg must be installed using : "sudo apt install ffmpeg"
+# ffmpeg-normalize must be installed using: "pip install ffmpeg-normalize"
+# https://github.com/slhck/ffmpeg-normalize
+#
 import os
 
 import numpy as np

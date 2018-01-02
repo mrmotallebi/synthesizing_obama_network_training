@@ -2,6 +2,10 @@
 #
 # You may copy and modify this freely under the same terms as
 # Sphinx-III
+#
+# Source : http://www.cs.cmu.edu/%7Edhuggins/Projects/pyphone/sphinx/mfcc.py
+# 
+# Plus snippet from main repository and some fixes
 
 """Compute MFCC coefficients.
 
