@@ -1,4 +1,4 @@
-#README
+# README
 
 
 This is modified research-code for 
@@ -12,14 +12,14 @@ Please see [project website](http://homes.cs.washington.edu/~supasorn/?page=code
 Code migrated to run on TensorFlow 1.4 and modified to add inference using sample audio file.
 
 
-##Basic Intructions:
+## Basic Intructions:
 
-###Training
+### Training
 
 To train the network, simply run `python2 run.py --save_dir SAVE_DIR`  
 Where `SAVE_DIR` is the directory under ./save/ which the network will be saved. 
 
-###Inference
+### Inference
 
 For inference, the following steps must be taken:
 
@@ -34,7 +34,7 @@ For inference, the following steps must be taken:
 (The above steps can be automated in a script of course.)
 
 
-##Acknowledgements
+## Acknowledgements
 
 This repository is mostly the fork of the [main repository](https://github.com/supasorn/synthesizing_obama_network_training) by the paper's authors.
 
